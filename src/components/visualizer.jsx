@@ -56,7 +56,7 @@ class Visualizer extends React.Component {
                 <Frame 
                     list = {this.state.list}
                 />
-                <Footer />
+                {/* <Footer /> */}
             </React.Fragment>
         );
     }

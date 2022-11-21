@@ -1,0 +1,28 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+
+.box {
+    width: 400px;
+    height: 430px;
+    border: 1px solid #dadada;
+    margin: 20px;
+    padding: 10px;
+    background-color: #ededed;
+}
+
+.box1{
+    width: 400px;
+    height: 180px;
+    border: 1px solid #dadada;
+    margin: 20px;
+    padding: 10px;
+    background-color: #ededed;
+}
+
+.udid_h {
+    margin: 5px;
+    padding: 20px;
+}

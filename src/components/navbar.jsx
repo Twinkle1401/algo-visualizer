@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Algorithms from './navbar-components/algorithms';
 import Size from './navbar-components/size';
 import Speed from './navbar-components/speed';
